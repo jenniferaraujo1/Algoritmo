@@ -1,6 +1,8 @@
 # Algoritmo 
 
 
+## De acordo com as suas esolhas o programa tem um final diferente. 
+
 
 
 
